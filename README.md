@@ -1,4 +1,4 @@
-[*why you should use dark-mode*](https://www.youtube.com/watch?v=xvFZjo5PgG0#gh-light-mode-only)\
+[*why you should use dark-mode*](https://www.youtube.com/watch?v=xvFZjo5PgG0#gh-light-mode-only)
 
 ## my booring stats
 
