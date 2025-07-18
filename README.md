@@ -1,3 +1,10 @@
-~~work~~ procrastination in progress
+![*switch to dark-mode for cool stats*](https://github.com/settings/appearance#gh-light-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erix0815&theme=dark&hide_border=true&layout=donut)](https://github.com/Erix0815?tab=repositories)
+<a href="https://github.com/Erix0815#gh-dark-mode-only">
+  <img height=200 align="top"
+    src="https://github-readme-stats.vercel.app/api?username=Erix0815&show_icons=true&rank_icon=github&include_all_commits=true&icon_color=0f0&title_color=0f0&hide_border=true&theme=dark#gh-dark-mode-only"
+  /></a>
+<a href="https://github.com/Erix0815?tab=repositories#gh-dark-mode-only">
+  <img height=200 align="top"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Erix0815&layout=donut&title_color=0f0&hide_border=true&theme=dark#gh-dark-mode-only"
+  /></a>
