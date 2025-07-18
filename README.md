@@ -1,6 +1,6 @@
 [*why you should use dark-mode*](https://www.youtube.com/watch?v=xvFZjo5PgG0#gh-light-mode-only)
 
-## my booring stats
+## my boring stats
 
 <a href="https://github.com/Erix0815?tab=repositories">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=Erix0815&show_icons=true&rank_icon=github&include_all_commits=true&icon_color=0f0&title_color=0f0&hide_border=true&bg_color=0000&theme=dark"/></a>
